@@ -1,3 +1,3 @@
 # OS
-Record of OS learning process
-contants the learning materials and notes
+##Record of OS learning process
+##Contants include the learning materials and notes
